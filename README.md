@@ -1,1 +1,1 @@
-# imagineek
+# Imagineek - An edTech teaching company
